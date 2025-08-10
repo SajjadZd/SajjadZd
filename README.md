@@ -63,7 +63,7 @@
 </p>
 
 <h1>Github Stats:</h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjad-dev&show_icons=true&locale=en&theme=radical" alt="yourusername" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SajjadZd&show_icons=true&locale=en&theme=radical" alt="yourusername" /></p>
 <h1>Top Languages:</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aajjad-dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="yourusername" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SajjadZd&show_icons=true&locale=en&layout=compact&theme=radical" alt="yourusername" /></p>
 
