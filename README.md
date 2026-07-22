@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, JavaScript, Frontend Development**
 
-- 📫 you can reach me at**sajjadzaidi0989@gmail.com**
+- 📫 you can reach me at **sajjadzaidi0989@gmail.com**
 
 <h1>Skills</h1>
 <h3 align="left">Languages:</h3>
