@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajjad</h1>
-<h3 align="center">A passionate Frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Frontend+Web+Developer;React+%7C+JavaScript+Expert;Full-Stack+Enthusiast;" alt="Typing SVG" /></a>
