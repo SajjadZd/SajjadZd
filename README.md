@@ -1,69 +1,34 @@
-<h1 align="center">Hi 👋, I'm Sajjad</h1>
-<h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Sajjad</h1> <h3 align="center">A passionate Full-Stack Developer from Pakistan</h3> <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=500&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+FastAPI;MERN+%2F+PERN+Stack+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a> </p> <p align="center"> <a href="https://www.linkedin.com/in/sajjad-zaidi-a564682a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:sajjadzaidi0989@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+🚀 About Me
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Frontend+Web+Developer;React+%7C+JavaScript+Expert;Full-Stack+Enthusiast;" alt="Typing SVG" /></a>
-</p>
+I'm a detail-oriented Full-Stack Developer with hands-on experience building responsive, user-friendly web applications using React, Node.js, and modern JavaScript. I'm expanding into backend development with FastAPI, and I bring a solid foundation in low-level programming and networking from Assembly language and Cisco Packet Tracer. I enjoy translating business requirements into clean, scalable, and efficient solutions, and I'm always looking to sharpen my skills across the stack.
 
-<h1>Introduction</h1>
-<p>Experienced and detail oriented ReactJS Front End Web Developer with a passion for crafting responsive, user friendly interfaces. Proficient in leveraging the latest web technologies to deliver cutting edge solutions that enhance user experiences. Adept at collaborating with cross functional teams to translate business requirements into elegant, efficient, and scalable front end solutions. Strong problem solving skills and a commitment to staying updated on industry trends. Seeking to contribute expertise in ReactJS development to a dynamic team.</p>
+🔭 Currently working on Full-Stack React + Node.js Projects
+🌱 Currently learning FastAPI & Advanced React Patterns
+👯 Looking to collaborate on Open Source Projects
+💬 Ask me about React, JavaScript, Node.js, FastAPI, Networking
+📫 Reach me at sajjadzaidi0989@gmail.com
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on **React Projects**
+Languages
 
-- 🌱 I’m currently learning **Advanced React Patterns**
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="assembly" height="28"/></a> </p>
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+Frameworks & Libraries
 
-- 💬 Ask me about **React, JavaScript, Frontend Development**
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> </p>
 
-- 📫 you can reach me at **sajjadzaidi0989@gmail.com**
+Databases
 
-<h1>Skills</h1>
-<h3 align="left">Languages:</h3>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<h3 align="left">Frameworks & Libraries:</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<h3 align="left">IDE:</h3>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-</a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
-</a>
-  <h3 align="left">Os:</h3>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" />
-</a>
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" /> 
-</a>
-<h3 align="left">DataBase:</h3>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<h3 align="left">Version control:</h3>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> </p>
 
+Networking & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sajjad-zaidi-a564682a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco packet tracer" height="28"/></a> </p> <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/></a> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/></a> </p>
 
-<h1>Github Stats:</h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SajjadZd&show_icons=true&locale=en&theme=radical" alt="yourusername" /></p>
-<h1>Top Languages:</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SajjadZd&show_icons=true&locale=en&layout=compact&theme=radical" alt="yourusername" /></p>
+Operating Systems
 
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></a> <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></a> </p>
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SajjadZd&show_icons=true&locale=en&theme=radical" alt="Sajjad's GitHub Stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadZd&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajjadZd&theme=radical" alt="GitHub Streak" /> </p>
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/sajjad-zaidi-a564682a7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> </p>
