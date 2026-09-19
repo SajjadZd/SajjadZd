@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sajjad 👋</h1>
 
-<p align="center"><i>Full-Stack Developer | Building things with code</i></p>
+<p align="center"><i>Software Developer | Building things with code</i></p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+FastAPI;MERN+%2F+PERN+Stack+Enthusiast;Diving+into+AI+%2F+ML+%F0%9F%A7%A0;Networking+Nerd+%7C+Assembly+Tinkerer;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=40&lines=Full-Snack+Web+Developer;React+%7C+Node.js+%7C+FastAPI;MERN+%2F+PERN+Stack+Enthusiast;Diving+into+AI+%2F+ML+%F0%9F%A7%A0;Networking+Nerd+%7C+Assembly+Tinkerer;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -41,18 +41,8 @@
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white) |
 | **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
 
-### 📊 GitHub Stats
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadZd&theme=github_dark">
-    <img width="49%" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadZd&theme=github">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SajjadZd&theme=github_dark">
-    <img width="49%" alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SajjadZd&theme=github">
-  </picture>
-</p>
+
 ### 🤝 Let's Collaborate
 
 Open to collaborating on full-stack, open-source, and AI/ML projects. Feel free to reach out via LinkedIn or email.
